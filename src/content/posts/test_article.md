@@ -1,8 +1,10 @@
 ---
 title: 'Test Article'
-description: '在AI的帮助下，这是我用 Astro 和 Vercel 搭建的第一篇文章！'
-publishDate: '2025-07-23'  # 修改成今天的日期
-published: true
+published: 2025-07-23
+tags:
+  - DIY
+  - Code
+lang: zh
 ---
 
 ## 欢迎来到我的博客
