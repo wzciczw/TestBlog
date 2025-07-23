@@ -1,8 +1,8 @@
 ---
 title: 'Test Article'
 published: 2025-07-23
-lang: zh
-featured: true
+lang: en
+pin: 99
 ---
 
 ## Welcome to Zhongchegn's Blog
