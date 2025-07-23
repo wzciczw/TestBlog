@@ -1,7 +1,7 @@
 ---
 title: 'Test Article'
 published: 2025-07-23
-lang: en
+lang: zh
 pin: 99
 ---
 
